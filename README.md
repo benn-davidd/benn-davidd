@@ -13,9 +13,9 @@ Open-source frontend projects or anything web-related.
 🤔 I’m looking for help with:  
 Landing my first dev role and building a strong portfolio.
 
-⚡ Hobbies:
-• Reading manga, manhwa or novels
-• Playing games
+⚡ Hobbies:<br/>
+• Reading manga, manhwa or novels<br/>
+• Playing games<br/>
 • Playing football
 ##
 <h3 align="left">🖥️ Tech Stack</h3>
@@ -65,7 +65,7 @@ Landing my first dev role and building a strong portfolio.
 </div>
 
 ###
-
+##
 <h3 align="left">📊 GitHub Stats</h3>
 
 ###
